@@ -107,7 +107,7 @@ const Contact = () => {
             
             <div className="space-y-4">
               <a
-                href="mailto:beka@example.com"
+                href="bekafite@gmail.com"
                 className="group flex items-center gap-4 p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:border-blue-500 dark:hover:border-blue-400 hover:shadow-lg dark:hover:shadow-gray-800/25 transition-all duration-300 bg-white dark:bg-gray-800"
               >
                 <div className="w-12 h-12 bg-blue-100 dark:bg-blue-900/30 rounded-lg flex items-center justify-center group-hover:bg-blue-500 dark:group-hover:bg-blue-600 transition-colors">
@@ -115,12 +115,12 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900 dark:text-white">Email</h4>
-                  <p className="text-gray-600 dark:text-gray-400">beka@example.com</p>
+                  <p className="text-gray-600 dark:text-gray-400">bekafite@gmail.com</p>
                 </div>
               </a>
               
               <a
-                href="https://linkedin.com/in/bekafite"
+                href="http://linkedin.com/in/beka-addisu-"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group flex items-center gap-4 p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:border-blue-500 dark:hover:border-blue-400 hover:shadow-lg dark:hover:shadow-gray-800/25 transition-all duration-300 bg-white dark:bg-gray-800"
@@ -130,7 +130,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900 dark:text-white">LinkedIn</h4>
-                  <p className="text-gray-600 dark:text-gray-400">linkedin.com/in/bekafite</p>
+                  <p className="text-gray-600 dark:text-gray-400">linkedin.com/in/beka Addisu</p>
                 </div>
               </a>
               
@@ -140,7 +140,7 @@ const Contact = () => {
                 </div>
                 <div className="text-left">
                   <h4 className="font-semibold text-gray-900 dark:text-white">Download Resume</h4>
-                  <p className="text-gray-600 dark:text-gray-400">Get my full CV as PDF</p>
+                  <p className="text-gray-600 dark:text-gray-400">c:\Users\aa\Downloads\My.cv.pdf</p>
                 </div>
               </button>
             </div>

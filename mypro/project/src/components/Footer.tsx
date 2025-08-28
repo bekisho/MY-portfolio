@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Mail, Linkedin, Github, Heart } from 'lucide-react';
 
 const Footer = () => {
@@ -14,7 +14,7 @@ const Footer = () => {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid md:grid-cols-4 gap-8 mb-12">
           <div className="md:col-span-2">
-            <h3 className="text-2xl font-bold mb-4">Beka Fite</h3>
+            <h3 className="text-2xl font-bold mb-4">Beka</h3>
             <p className="text-gray-400 dark:text-gray-500 leading-relaxed max-w-md">
               UI/UX Designer passionate about creating beautiful, functional, and user-centered digital experiences.
             </p>
@@ -26,7 +26,7 @@ const Footer = () => {
                 <Mail size={20} />
               </a>
               <a
-                href="https://linkedin.com/in/bekafite"
+                href="http://linkedin.com/in/beka-addisu-"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-gray-800 dark:bg-gray-900 rounded-full flex items-center justify-center hover:bg-blue-500 dark:hover:bg-blue-600 transition-colors"
@@ -34,7 +34,7 @@ const Footer = () => {
                 <Linkedin size={20} />
               </a>
               <a
-                href="https://github.com/bekafite"
+                href="ttps://github.com/bekisho"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-gray-800 dark:bg-gray-900 rounded-full flex items-center justify-center hover:bg-blue-500 dark:hover:bg-blue-600 transition-colors"
@@ -66,7 +66,6 @@ const Footer = () => {
               <li>User Research</li>
               <li>Prototyping</li>
               <li>Design Systems</li>
-              <li>Webflow Development</li>
             </ul>
           </div>
         </div>
