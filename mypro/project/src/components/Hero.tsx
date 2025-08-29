@@ -24,7 +24,7 @@ const Hero = () => {
             <div className="relative">
               <div className="w-80 h-80 rounded-full overflow-hidden shadow-2xl border-4 border-white dark:border-gray-700">
                 <img
-                  src="./src/ast/myph.JPG"  // profile images 
+                  src="./src/ast/anmat3.png"  // profile images 
                   alt="Beka Fite - UI/UX Designer"
                   className="w-full h-full object-cover"
                 />
